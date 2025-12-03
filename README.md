@@ -9,4 +9,4 @@ Go to Dynatrace tenant and search for Security Investigator
 Step 3:
 Upload the zip file as a new Investigator
 
-![Screenshot](../SecInvestigator.jpg)
+![Screenshot](SecInvestigator.jpg)
